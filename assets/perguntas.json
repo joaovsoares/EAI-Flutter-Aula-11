@@ -1,0 +1,50 @@
+﻿[     
+    {
+        "numero": 1,
+        "texto": "Quem criou o Flutter?",
+        "respostas": [
+            {"texto": "Facebook", "correta": false, "pontos": -2},
+            {"texto": "Adobe", "correta": false, "pontos": -2},
+            {"texto": "Google", "correta": true, "pontos": 10},
+            {"texto": "Microsoft", "correta": false, "pontos": -2}
+        ]
+    },
+    {
+        "numero": 2,
+        "texto": "O que é Flutter?",
+        "respostas": [
+            {"texto": "Android Development Kit", "correta": false, "pontos": -2},
+            {"texto": "IOS Development Kit", "correta": false, "pontos": -2},
+            {"texto": "Web Development Kit", "correta": false, "pontos": -2},
+            {"texto": "SDK para construir apps nativos", "correta": true, "pontos": 10}
+        ]
+    },
+    {
+        "numero": 3,
+        "texto": "Qual a linguagem de programação do Flutter?", 
+        "respostas": [
+            {"texto": "Ruby", "correta": false, "pontos": -2},
+            {"texto": "Dart", "correta": true, "pontos": 10},
+            {"texto": "C++", "correta": false, "pontos": -2},
+            {"texto": "Kotlin", "correta": false, "pontos": -2}
+        ]
+    },
+    {
+        "numero": 4,
+        "texto": "Quem criou a linguagem de programação Dart?",
+        "respostas": [
+            {"texto": "Lars Bak and Kasper Lund", "correta": true, "pontos": 10},
+            {"texto": "Brendan Eich", "correta": false, "pontos": -2},
+            {"texto": "Bjarne Stroustrup", "correta": false, "pontos": -2},
+            {"texto": "Jeremy Ashkenas", "correta": false, "pontos": -2}
+        ]
+    },
+    {
+        "numero": 5,
+        "texto": "Flutter já possui versão estável disponível para Web e Desktop?",
+        "respostas": [
+            {"texto": "Sim", "correta": false, "pontos": -2},
+            {"texto": "Não", "correta": true, "pontos": 10}
+        ]
+    }
+]
